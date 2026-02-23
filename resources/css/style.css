@@ -39,5 +39,11 @@ p {
 .camp-image {
     display: flex;
     justify-content: center;
-    
+
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
 }
